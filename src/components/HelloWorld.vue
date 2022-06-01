@@ -1,5 +1,12 @@
 <template>
   <div class="container introduction">
+    <div
+        :style="{
+        'background-image': `url(${require('@/assets/tythus_logo.png')})`,
+        width: '100px',
+        height: '100px',
+      }"
+    ></div>
     <h1>{{ msg }}</h1>
     <p>
       Please take a look around here!

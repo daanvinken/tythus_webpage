@@ -15,6 +15,16 @@
   text-align: center;
   color: #2c3e50;
 }
+body {
+  font-size: 1.6rem;
+  font-family: "Open Sans", sans-serif;
+  color: #2c3e50;
+  margin: 0;
+  padding: 0;
+  background-color: lightgray;
+  background-image: -webkit-linear-gradient(-30deg, lightslategray 49.99%, #fff 50%);
+  min-height: 100vh;
+}
 
 nav {
   padding: 30px;
