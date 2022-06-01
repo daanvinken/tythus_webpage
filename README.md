@@ -1,5 +1,5 @@
 # tythus-webpage
-
+Playing around with Vue for a new website
 ## Project setup
 ```
 npm install
