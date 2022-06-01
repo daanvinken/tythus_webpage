@@ -2,7 +2,7 @@
   <div class="container introduction">
     <h1>{{ msg }}</h1>
     <p>
-      Kijk gerust even rond op onze website!
+      Please take a look around here!
     </p>
   </div>
 </template>
